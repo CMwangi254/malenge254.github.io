@@ -1,4 +1,4 @@
-# Entrpreneurial journey
+# **Entrepreneurial journey**
 ## My website
 ###### Written by Cavendish Mwangi | 7th September 2017
 
@@ -6,9 +6,9 @@
 
 The site includes:
 
-* A homepage
-* An about Page
-* A contact page
+* A Homepage
+* An About Page
+* A Contact page
 
 Skills | Hobbies
 ------------ | -------------
